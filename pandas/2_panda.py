@@ -71,10 +71,6 @@ df
 df.reindex(["c","b","a","m"])
 df.reindex(["c","b","a","m"], fill_value=14)
 df.reindex(columns=["noida","berlin","madrid"])#works with only unique index values
-import os
-
-os.getcwd()
-students= pd.read_csv("~\pyWork\pyProjects\akpy_18\akpy_18\files\dsstudents.csv")
 
 
 
