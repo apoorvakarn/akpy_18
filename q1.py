@@ -33,3 +33,4 @@ for i in a:
         max2=i
         
 max2
+#%%
