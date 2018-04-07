@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 23 12:32:09 2018 by Apoorva Karn """
 #%% sentiment analysis
-import tweepy           # To consume Twitter's API
+import tweepy          # To consume Twitter's API
 import pandas as pd     # To handle data
 import numpy as np      # For number computing
 
